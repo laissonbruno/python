@@ -19,7 +19,7 @@ print(preco)
 # numero para string e vice-versa
 
 preco = 10.50
-idade = 28
+idade = 27
 
 print(str(preco))
 print(str(idade))
@@ -30,7 +30,7 @@ texto = f'idade {idade} preco {preco}'
 print(texto)
 
 preco = "10.50"
-idade = "28"
+idade = "27"
 
 print(float(preco))
 print(int(idade))

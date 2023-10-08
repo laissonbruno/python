@@ -7,7 +7,7 @@ print(f'Meu nome é {name} e eu tenho {age} anos de idade.')
 # age, name (27, 'Laisson')
 # print(f'Meu nome é {name} e eu tenho {age} anos de idade.')
 
-age = 28
+age = 27
 name = 'Bruno'
 print(f'Meu nome é {name} e eu tenho {age} anos de idade.')
 
